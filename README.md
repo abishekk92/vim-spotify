@@ -15,4 +15,6 @@ __Install witth Vundle__
 
 Add the following lines to your .vimrc
 
-Plugin "abishekk92/vim-spotify"
+```vimL
+    Plugin "abishekk92/vim-spotify"
+```
